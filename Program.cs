@@ -17,4 +17,5 @@
             double distancia3 = (distancia * 1)/0.914;
             Console.WriteLine($"La distancia recorrida es: {distancia3} yardas");
 
-            
+            double distancia4 = distancia * 39.37;
+            Console.WriteLine($"La distancia recorrida es: {distancia4} pulgadas");
