@@ -1,0 +1,14 @@
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\bin\Debug\net8.0\PRACTICO1.exe
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\bin\Debug\net8.0\PRACTICO1.deps.json
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\bin\Debug\net8.0\PRACTICO1.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\bin\Debug\net8.0\PRACTICO1.dll
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\bin\Debug\net8.0\PRACTICO1.pdb
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.dll
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\refint\PRACTICO1.dll
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.pdb
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\PRACTICO1.genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\micarpeta\tareaone\PRACTICO1\obj\Debug\net8.0\ref\PRACTICO1.dll
