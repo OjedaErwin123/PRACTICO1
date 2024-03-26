@@ -13,3 +13,8 @@
             Console.WriteLine($"La distancia recorrida es: {distancia} metros");
             double distancia2 = (distancia * 1)/1000;
             Console.WriteLine($"La distancia recorrida es: {distancia2} kilometros");
+
+            double distancia3 = (distancia * 1)/0.914;
+            Console.WriteLine($"La distancia recorrida es: {distancia3} yardas");
+
+            
